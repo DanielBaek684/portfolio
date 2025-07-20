@@ -5,3 +5,5 @@
   This summer, I'm working on projects that explore real-world data, from house prices to social media trends.
 
 ### Check out some of my work below!
+  [Publication]()
+  [Publication]()
