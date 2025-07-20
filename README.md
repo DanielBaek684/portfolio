@@ -4,8 +4,8 @@
   I am a high school student strongly interested in data science, statistics, and machine learning.
   This summer, I'm working on projects that explore real-world data, from house prices to social media trends.
 
-### Check out some of my work below!
+### Check out some of my works below!
   
-  Northern Virginia Housing Prices Explorer: [Publication](https://github.com/DanielBaek684/nova-housing-prices-explorer.git)
+  Northern Virginia Housing Prices Explorer: [Publication](https://github.com/DanielBaek684/nova-housing-prices-explorer)
 
   [Publication]()
