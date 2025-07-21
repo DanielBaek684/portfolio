@@ -6,6 +6,6 @@
 
 ### Check out some of my works below!
   
-  Northern Virginia Housing Prices Explorer: [Publication](https://github.com/DanielBaek684/nova-housing-prices-explorer)
+  Texas Housing Prices Explorer: [Publication](https://github.com/DanielBaek684/nova-housing-prices-explorer)
 
   [Publication]()
